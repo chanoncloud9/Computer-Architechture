@@ -9,7 +9,7 @@ Instructions for compilation and execution-
 - press : Enter
 
 
-2. write the instructions in imem.txt (see imem demo.txt for reference):
+2. write the instructions in imem.txt (refer "imem demo.txt"):
 
 - command : nano imem.txt
 - write the instructions (8 bits in 1 line)
@@ -18,7 +18,7 @@ Instructions for compilation and execution-
 - press : Enter
 
 
-3. write the data in dmem.txt (see dmem demo.txt for reference):
+3. write the data in dmem.txt (refer "dmem demo.txt"):
 
 - command : nano dmem.txt
 - write the data (8 bits in 1 line)
