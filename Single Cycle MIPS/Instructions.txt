@@ -1,4 +1,4 @@
-Instructions for compilation and execution in gauss
+Instructions for compilation and execution:
 
 1. make the code file :
 
