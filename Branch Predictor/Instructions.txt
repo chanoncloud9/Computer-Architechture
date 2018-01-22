@@ -8,7 +8,7 @@ Instructions for compilation and execution -
 - press : Enter
 
 
-2. write the config in config.txt :
+2. write the config in config.txt (refer " config demo.txt "):
 
 - command : nano config.txt
 - press : Ctrl + x
@@ -16,7 +16,7 @@ Instructions for compilation and execution -
 - press : Enter
 
 
-3. write the trace flow in trace.txt :
+3. write the trace flow in trace.txt (refer " trace demo.txt "):
 
 - command : nano trace.txt
 - write the trace instructions 
