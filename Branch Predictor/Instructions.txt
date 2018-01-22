@@ -1,0 +1,35 @@
+Instructions for compilation and execution -
+
+1. make the code file :
+
+- command : nano branchsimulator.cpp
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+2. write the config in config.txt :
+
+- command : nano config.txt
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+3. write the trace flow in trace.txt :
+
+- command : nano trace.txt
+- write the trace instructions 
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+4. compiling and linking :
+
+- command : g++ -o out branchsimulator.cpp
+
+
+5. execute :
+
+- command : ./out 
