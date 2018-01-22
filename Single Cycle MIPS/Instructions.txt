@@ -1,0 +1,37 @@
+Instructions for compilation and execution in gauss
+
+1. make the code file :
+
+- command : nano MIPS.cpp
+- in the window that opens paste the code from "MIPS.cpp" file
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+2. write the instructions in imem.txt :
+
+- command : nano imem.txt
+- write the instructions (8 bits in 1 line)
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+3. write the data in dmem.txt :
+
+- command : nano dmem.txt
+- write the data (8 bits in 1 line)
+- press : Ctrl + x
+- press : y
+- press : Enter
+
+
+4. compiling and linking :
+
+- command : g++ -o MIPS MIPS.cpp
+
+
+5. execute :
+
+- command : ./MIPS
